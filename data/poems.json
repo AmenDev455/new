@@ -160,5 +160,41 @@
     "isFeatured": 3,
     "createdAt": "2025-11-29T17:38:58.981103Z",
     "updatedAt": "2025-11-29T17:38:58.981103Z"
+  },
+  {
+    "id": "f3a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
+    "title": "In the Meantime",
+    "content": "Sometimes you love a rose so much you choose distance over damage. Not because you're weak — but because you're not ready yet. So you learn patience — the kind that puts a shovel in your hand.\nI hate having an open hand with nothing to offer. That feeling… I can't accept it. So I work. Quietly. Not just for myself.\nI like giving — not for anything back, just to see that small shift in someone's face. It means something.\nLately I've noticed I'm changing. Things I didn't care about before, I pay attention to now — small details, soft energy. It's strange… the more I grow, the more calm I become. Like something buried deep — the more I dig, the stronger it lingers.\nThere are people you don't talk to much, but somehow they still leave a mark. Not loud, not obvious — just enough to redirect you. And you don't question it. You just accept it.\nFor now I lower my gaze, stay focused, and keep building. There's a version of me I still haven't reached yet. And I know I won't meet it by rushing. Some things you leave untouched — not out of distance, but out of respect for the time they deserve.",
+    "theme": "Presence & Connection",
+    "mood": "Composed",
+    "featuredImageUrl": null,
+    "readingTime": 3,
+    "status": "published",
+    "seoTitle": null,
+    "seoDescription": null,
+    "seoKeywords": null,
+    "publishedAt": "2026-03-22T12:00:00.000Z",
+    "views": 0,
+    "isFeatured": 5,
+    "createdAt": "2026-03-22T12:00:00.000Z",
+    "updatedAt": "2026-03-22T12:00:00.000Z"
+  },
+  {
+    "id": "a7b8c9d0-e1f2-4a3b-8c4d-5e6f7a8b9c0d",
+    "title": "Perspective",
+    "content": "I look at life from an angle where nothing goes to waste — not even the parts that cost me.\nPeople pass through you differently. Some leave warmth. Some leave weight. Some leave something you only understand later. But it's never really about them. It's about how you stand in the middle of it all — the same storm, the same silence — and what you decide to do with what's left.\nLife doesn't adjust itself to make sense to you. It arrives as it is — unfinished, unnamed — and waits.\nTwo people can live the same moment. Same loss. Same rejection. One sees an ending. The other… a beginning. Nothing changed except the way it was held.\nI've been asked before, \"What makes you stay steady?\" It's not ignoring pain. It's asking quietly — what is this doing to me, not why me.\nBecause the mind resists. The ego looks for someone to blame. But something in you knows the difference between a wound and a lesson — and chooses, quietly, to learn.\nMistakes don't just leave marks — they leave blueprints. And pain, if you sit with it long enough, starts to feel less like an ending and more like instructions.\nLife doesn't become easier. You just stop fighting the wrong things.",
+    "theme": "Time & Purpose",
+    "mood": "Reckoning",
+    "featuredImageUrl": null,
+    "readingTime": 3,
+    "status": "published",
+    "seoTitle": null,
+    "seoDescription": null,
+    "seoKeywords": null,
+    "publishedAt": "2026-03-22T12:00:00.000Z",
+    "views": 0,
+    "isFeatured": 0,
+    "createdAt": "2026-03-22T12:00:00.000Z",
+    "updatedAt": "2026-03-22T12:00:00.000Z"
   }
 ]
